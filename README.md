@@ -1,4 +1,6 @@
 B2B RFQ-to-Quote Estimation Platform
+
+
 A full-stack, AI-assisted web application designed for manufacturing estimators to reduce RFQ turnaround time from 9 days to under 4 days. This platform replaces manual Excel-based workflows with a centralized, trace-driven quoting engine.
 
 🚀 Core Features
